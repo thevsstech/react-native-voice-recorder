@@ -36,6 +36,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.github.thevsstech:AndroidAudioRecorder:0.3.3'
+    compile 'com.github.thevsstech:AndroidAudioRecorder:0.3.6'
     implementation 'com.karumi:dexter:5.0.0'
 }
